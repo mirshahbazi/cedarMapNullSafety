@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eba7c2d7-a8e7-4bb3-9f55-93b3f89644af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1yP9Lvk5sxZTegvY5xtSwvPBdbR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/ios/Classes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eba7c2d7-a8e7-4bb3-9f55-93b3f89644af" name="Default Changelist" comment="" />
+      <created>1632142303078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632142303078</updated>
+    </task>
+    <task id="LOCAL-00001" summary="change path">
+      <created>1632149701242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632149701242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change path">
+      <created>1632152520380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632152520380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change lib">
+      <created>1632568414495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632568414496</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change lib">
+      <created>1633256959454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633256959454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change lib">
+      <created>1633258277420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633258277420</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change podspec name">
+      <created>1633795919965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633795919965</updated>
+    </task>
+    <task id="LOCAL-00007" summary="downgrade mapbox">
+      <created>1633796433468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633796433468</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upgrade mapbox sdk">
+      <created>1633796667306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633796667306</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upgrade mapbox sdk">
+      <created>1633799838079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633799838079</updated>
+    </task>
+    <task id="LOCAL-00010" summary="upgrade mapbox sdk">
+      <created>1633808450553</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1633808450554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update the source code">
+      <created>1633886051030</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633886051031</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update the source code">
+      <created>1633887520460</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633887520460</updated>
+    </task>
+    <task id="LOCAL-00013" summary="nsstring to string">
+      <created>1633891937003</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633891937003</updated>
+    </task>
+    <task id="LOCAL-00014" summary="nsstring to string">
+      <created>1633892379841</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633892379841</updated>
+    </task>
+    <task id="LOCAL-00015" summary="remove mapbox_gl-Swift.h">
+      <created>1633894086404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633894086404</updated>
+    </task>
+    <task id="LOCAL-00016" summary="remove mapbox_gl-Swift.h">
+      <created>1633894595949</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633894595949</updated>
+    </task>
+    <task id="LOCAL-00017" summary="remove mapbox_gl-Swift.h">
+      <created>1633894954207</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633894954207</updated>
+    </task>
+    <task id="LOCAL-00018" summary="remove mapbox_gl-Swift.h">
+      <created>1633949733942</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1633949733943</updated>
+    </task>
+    <task id="LOCAL-00019" summary="change the to https">
+      <created>1636279385531</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1636279385531</updated>
+    </task>
+    <task id="LOCAL-00020" summary="change the to https">
+      <created>1636279431012</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1636279431012</updated>
+    </task>
+    <task id="LOCAL-00021" summary="change the to https">
+      <created>1636281365066</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1636281365066</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update cedar">
+      <created>1636350475677</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1636350475681</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update cedar">
+      <created>1636351457063</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1636351457063</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update cedar">
+      <created>1636352172642</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1636352172642</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update cedar">
+      <created>1636353139898</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1636353139898</updated>
+    </task>
+    <task id="LOCAL-00026" summary="change the server">
+      <created>1636353712979</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1636353712979</updated>
+    </task>
+    <task id="LOCAL-00027" summary="change the server">
+      <created>1636354015212</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1636354015212</updated>
+    </task>
+    <task id="LOCAL-00028" summary="change the server">
+      <created>1636354995600</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1636354995600</updated>
+    </task>
+    <task id="LOCAL-00029" summary="change the server">
+      <created>1636367329255</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1636367329255</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change the server">
+      <created>1636376638569</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1636376638569</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add base url and token valid">
+      <created>1636377044058</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377044058</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add base url and token valid">
+      <created>1636377290803</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377290803</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add base url and token valid">
+      <created>1636377451304</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377451304</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add base url and token valid">
+      <created>1636377694596</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377694596</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add base url and token valid">
+      <created>1636391696147</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1636391696147</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add base url and token valid">
+      <created>1636392668694</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1636392668694</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add base url and token valid">
+      <created>1636437154359</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1636437154359</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add base url and token valid">
+      <created>1636437653303</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1636437653303</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change path" />
+    <MESSAGE value="change lib" />
+    <MESSAGE value="change podspec name" />
+    <MESSAGE value="downgrade mapbox" />
+    <MESSAGE value="upgrade mapbox sdk" />
+    <MESSAGE value="update the source code" />
+    <MESSAGE value="nsstring to string" />
+    <MESSAGE value="remove mapbox_gl-Swift.h" />
+    <MESSAGE value="change the to https" />
+    <MESSAGE value="update cedar" />
+    <MESSAGE value="change the server" />
+    <MESSAGE value="add base url and token valid" />
+    <option name="LAST_COMMIT_MESSAGE" value="add base url and token valid" />
+  </component>
+</project>

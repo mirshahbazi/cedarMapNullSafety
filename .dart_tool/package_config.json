@@ -1,0 +1,134 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/tools/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/tools/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/image-3.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "mapbox_gl",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/git/flutter-mapbox-gl-f90d54d43fe00f57a41c1c370756ce46916878b3/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mapbox_gl_dart",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/mapbox_gl_dart-0.2.0-nullsafety.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mapbox_gl_platform_interface",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/git/flutter-mapbox-gl-f90d54d43fe00f57a41c1c370756ce46916878b3/mapbox_gl_platform_interface",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mapbox_gl_web",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/git/flutter-mapbox-gl-f90d54d43fe00f57a41c1c370756ce46916878b3/mapbox_gl_web",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/tools/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/mrmir/AppData/Local/Pub/Cache/hosted/pub.dev/xml-5.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cedarmaps",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2023-03-08T13:55:48.215991Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.2"
+}

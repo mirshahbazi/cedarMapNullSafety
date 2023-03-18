@@ -1,0 +1,51 @@
+name: cedarmaps
+description: A Flutter plugin for integrating Cedarmaps inside a Flutter application on Android, iOS and web platfroms edit by Mohammad Ali Mirshahbazi.
+version: 0.9.2
+homepage: https://github.com/mirshahbazi/cedarmap
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mapbox_gl_platform_interface: ^0.16.0
+  mapbox_gl_web: ^0.16.0
+  image: ^3.0.4
+
+
+#dependency_overrides:
+#  mapbox_gl_platform_interface:
+#    git:
+#      url: https://github.com/mirshahbazi/mapbox_gl_platform_interface.git
+#
+#  mapbox_gl_web:
+#    git:
+#      url: https://github.com/mirshahbazi/mapBox_gl.git
+
+dependency_overrides:
+  mapbox_gl:
+    git:
+      url: https://github.com/tobrun/flutter-mapbox-gl.git
+  mapbox_gl_platform_interface:
+    git:
+      url: https://github.com/tobrun/flutter-mapbox-gl.git
+      path: mapbox_gl_platform_interface
+  mapbox_gl_web:
+    git:
+      url: https://github.com/tobrun/flutter-mapbox-gl.git
+      path: mapbox_gl_web
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.mapbox.mapboxgl
+        pluginClass: MapboxMapsPlugin
+      ios:
+        pluginClass: MapboxMapsPlugin
+      web:
+        default_package: mapbox_gl_web
+        
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+  # Flutter versions prior to 1.10 did not support the flutter.plugin.platforms map.
+  flutter: ">=3.0.0 <3.7.3"
+#just mam
