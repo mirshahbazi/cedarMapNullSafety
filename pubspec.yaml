@@ -6,8 +6,8 @@ homepage: https://github.com/mirshahbazi/cedarmap
 dependencies:
   flutter:
     sdk: flutter
-  mapbox_gl_platform_interface: ^0.16.0
-  mapbox_gl_web: ^0.16.0
+  mapbox_gl_platform_interface: ^0.13.0
+  mapbox_gl_web: ^0.13.0
   image: ^3.0.4
 
 
